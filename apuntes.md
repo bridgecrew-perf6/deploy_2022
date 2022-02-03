@@ -35,13 +35,26 @@
 
 ## Sección 2: Primeros pasos con el Hosting (obligatorio verlo)
 ### 4. Antes de continuar mira esta clase (importante)
-1 min
++ Hostin a usar: https://www.hostinger.mx/oferta-especial?utm_medium=affiliate&utm_source=aff46609&utm_campaign=6&session=10217bcaf1db6fb05267665eb35943
+
 ### 5. Configuración inicial del hosting y el dominio
-8 min
++ https://victorroblesweb.es/2020/08/28/que-hosting-elegir/
++ **Contenido**: comprar, configurar un hosting e instalara certificado SSL en Hostinger.
+
 ### 6. Página por defecto
-4 min
++ **Contenido**: sobre la página por defecto de Hostinger.
+
 ### 7. Conexión FTP
-8 min
++ https://victorroblesweb.es/2013/12/02/comandos-ftp-en-la-consola
++ **Contenido**: deploy con Hostinger. Subir proyecto vía ftp con FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Primeros pasos con el Hosting (obligatorio verlo)"
++ $ git push -u origin main
+
+
+## Sección 3: Subir sitios web creados con HTML y CSS
 ### 8. Su### bir webs hechas con HTML y CSS
 6 min
 ### 9. Subir páginas web hechas con HTML5, CSS3 y JavaScript
