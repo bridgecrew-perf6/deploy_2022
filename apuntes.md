@@ -108,11 +108,21 @@
 
 ## Sección 7: Publicar proyectos y aplicaciones web desarrollados con Laravel (framework php)
 ### 16. Preparando el hosting para Laravel
-3 min
++ **Contenido**: preparar hosting con FileZilla en Hostinger para subir proyecto de Laravel.
+
 ### 17. Subir una aplicación web hecha con Laravel
-9 min
++ **Contenido**: subir proyecto de Laravel a Hostinger con FileZilla.
+
 ### 18. Configurar urls y htaccess para proyectos web de Laravel
-6 min
++ **Contenido**: configuración del archivo **htaccess**.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Publicar proyectos y aplicaciones web desarrollados con Laravel (framework php)"
++ $ git push -u origin main
+
+
+## Sección 8: Subir aplicaciones web creadas con Symfony a Internet
 ### 19. Preparando el alojamiento web para Symfony
 4 min
 ### 20. Poner online un proyecto web de Symfony
