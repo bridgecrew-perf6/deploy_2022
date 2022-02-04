@@ -55,8 +55,16 @@
 
 
 ## Sección 3: Subir sitios web creados con HTML y CSS
-### 8. Su### bir webs hechas con HTML y CSS
-6 min
+### 8. Subir webs hechas con HTML y CSS
++ **Contenido**: sobre como subir un proyecto con HTML y CSS a Hostinger mediante FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Subir sitios web creados con HTML y CSS"
++ $ git push -u origin main
+
+
+## Sección 4: Publicar sitios web desarrollados con HTML, CSS y JavaScript
 ### 9. Subir páginas web hechas con HTML5, CSS3 y JavaScript
 4 min
 ### 10. Arreglar posibles problemas de JavaScript en el hosting
@@ -175,3 +183,8 @@
 2 min
 ### 67. CLASE DE BONUS
 1 min
+
+
+## EXTRAS:
+### Hacer deploy de una aplicación Laravel a Digital Ocean
++ https://programacionymas.com/blog/hacer-deploy-app-laravel-digital-ocean
