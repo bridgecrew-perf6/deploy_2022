@@ -77,9 +77,17 @@
 + $ git push -u origin main
 
 
-## Sección 5: Puesta en producción de proyectos web creados con PHP, POO, MVC, y MySQL.
+## Sección 5: Puesta en producción de proyectos web creados con PHP y MySQL
 ### 11. Subir aplicación web hecha con PHP y MySQL
-11 min
++ **Contenido**: sobre como subir a Hostinger un proyecto con PHP y MySQL mediante FileZilla y phpMyAdmin.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Puesta en producción de proyectos web creados con PHP y MySQL"
++ $ git push -u origin main
+
+
+## Sección 6: Publicar online aplicaciones web desarrolladas con PHP, POO, MVC y MySQL 
 ### 12. Subir una web desarrollada con PHP, POO, MVC y MySQL
 9 min
 ### 13. Configurando el htaccess
