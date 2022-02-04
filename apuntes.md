@@ -66,9 +66,18 @@
 
 ## Sección 4: Publicar sitios web desarrollados con HTML, CSS y JavaScript
 ### 9. Subir páginas web hechas con HTML5, CSS3 y JavaScript
-4 min
++ **Contenido**: parte I sobre como subir un proyecto con HTML, CSS y JavaScript a Hostinger mediante FileZilla.
+
 ### 10. Arreglar posibles problemas de JavaScript en el hosting
-4 min
++ **Contenido**: parte II sobre como subir un proyecto con HTML, CSS y JavaScript a Hostinger mediante FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Publicar sitios web desarrollados con HTML, CSS y JavaScript"
++ $ git push -u origin main
+
+
+## Sección 5: Puesta en producción de proyectos web creados con PHP, POO, MVC, y MySQL.
 ### 11. Subir aplicación web hecha con PHP y MySQL
 11 min
 ### 12. Subir una web desarrollada con PHP, POO, MVC y MySQL
