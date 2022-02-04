@@ -87,15 +87,26 @@
 + $ git push -u origin main
 
 
-## Sección 6: Publicar online aplicaciones web desarrolladas con PHP, POO, MVC y MySQL 
+## Sección 6: Publicar online aplicaciones web desarrolladas con PHP, POO, MVC y MySQL
 ### 12. Subir una web desarrollada con PHP, POO, MVC y MySQL
-9 min
++ **Contenido**: parte I sobre como subir a Hostinger un proyecto con PHP y MySQL mediante FileZilla y phpMyAdmin.
+
 ### 13. Configurando el htaccess
-5 min
++ **Contenido**: parte II sobre como subir a Hostinger un proyecto con PHP y MySQL mediante FileZilla y phpMyAdmin.
+
 ### 14. Mejorando la autocarga de controladores
-12 min
++ **Contenido**: parte III sobre como subir a Hostinger un proyecto con PHP y MySQL mediante FileZilla y phpMyAdmin.
+
 ### 15. Terminando la configuración del proyecto
-1 min
++ **Contenido**: parte IV sobre como subir a Hostinger un proyecto con PHP y MySQL mediante FileZilla y phpMyAdmin.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Publicar online aplicaciones web desarrolladas con PHP, POO, MVC y MySQL"
++ $ git push -u origin main
+
+
+## Sección 7: Publicar proyectos y aplicaciones web desarrollados con Laravel (framework php)
 ### 16. Preparando el hosting para Laravel
 3 min
 ### 17. Subir una aplicación web hecha con Laravel
