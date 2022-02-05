@@ -137,11 +137,20 @@
 
 ## Sección 9: Publicar paginas web Wordpress
 ### 21. Preparando el hosting para Wordpress
-4 min
++ **Contenido**: preparación del hosting y descarga de Wordpress.
+
 ### 22. Instalar Wordpress en tu hosting
-8 min
++ **Contenido**: como hostear en Hostinger un sitio web en Wordpress.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Publicar paginas web Wordpress"
++ $ git push -u origin main
+
+
+## Sección 10: Migrar Wordpress de local a un dominio o de dominio a dominio
 ### 23. Preparando Wordpress Local para subirlo al Hosting
-2 min
+
 ### 24. Subida y migración de un proyecto web de Wordpress
 7 min
 ### 25. Configurar base de datos de Wordpress y pruebas en producción
