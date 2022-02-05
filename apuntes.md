@@ -150,11 +150,22 @@
 
 ## Sección 10: Migrar Wordpress de local a un dominio o de dominio a dominio
 ### 23. Preparando Wordpress Local para subirlo al Hosting
++ https://victorroblesweb.es/2017/02/04/migrar-wordpress-dominio
++ **Contenido**: preparando el hosting para subir un proyecto Wordpress.
 
 ### 24. Subida y migración de un proyecto web de Wordpress
-7 min
++ **Contenido**: subir proyecto Wordpress con FileZilla a Hostinger.
+
 ### 25. Configurar base de datos de Wordpress y pruebas en producción
-3 min
++ **Contenido**: configurar la base de datos.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Migrar Wordpress de local a un dominio o de dominio a dominio"
++ $ git push -u origin main
+
+
+## Sección 11: Subir aplicaciones web: Laravel + Angular
 ### 26. Configurando el hosting para subir un API REST con Laravel y una web con Angular
 7 min
 ### 27. Preparando el API RESTful con Laravel
