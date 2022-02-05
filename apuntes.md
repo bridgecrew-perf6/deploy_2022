@@ -124,9 +124,18 @@
 
 ## Sección 8: Subir aplicaciones web creadas con Symfony a Internet
 ### 19. Preparando el alojamiento web para Symfony
-4 min
++ **Contenido**: preparar hosting con FileZilla en Hostinger para subir proyecto de Symfony.
+
 ### 20. Poner online un proyecto web de Symfony
-12 min
++ **Contenido**: subir proyecto de Symfony a Hostinger con FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Subir aplicaciones web creadas con Symfony a Internet"
++ $ git push -u origin main
+
+
+## Sección 9: Publicar paginas web Wordpress
 ### 21. Preparando el hosting para Wordpress
 4 min
 ### 22. Instalar Wordpress en tu hosting
