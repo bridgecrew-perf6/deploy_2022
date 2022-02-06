@@ -167,15 +167,27 @@
 
 ## Sección 11: Subir aplicaciones web: Laravel + Angular
 ### 26. Configurando el hosting para subir un API REST con Laravel y una web con Angular
-7 min
++ **Contenido**: parte I de como subir una aplicación Laravel - Angular a Hostinger con FileZilla.
+
 ### 27. Preparando el API RESTful con Laravel
-4 min
++ **Contenido**: parte II de como subir una aplicación Laravel - Angular a Hostinger con FileZilla.
+
 ### 28. Subir el back-end Laravel
-6 min
++ **Contenido**: parte III de como subir una aplicación Laravel - Angular a Hostinger con FileZilla.
+
 ### 29. Subir webapp SPA de Angular al hosting
-10 min
++ **Contenido**: parte IV de como subir una aplicación Laravel - Angular a Hostinger con FileZilla.
+
 ### 30. Configurando rutas de la webapp de Angular en Apache
-4 min
++ **Contenido**: parte V de como subir una aplicación Laravel - Angular a Hostinger con FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Subir aplicaciones web: Laravel + Angular"
++ $ git push -u origin main
+
+
+## Sección 12: Publicar aplicación webs: Symfony + Angular
 ### 31. Configurando el hosting para Symfony y Angular
 6 min
 ### 32. Subir API REST desarrollada con Symfony (framework para PHP)
