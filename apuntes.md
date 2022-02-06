@@ -189,13 +189,24 @@
 
 ## Sección 12: Publicar aplicación webs: Symfony + Angular
 ### 31. Configurando el hosting para Symfony y Angular
-6 min
++ **Contenido**: parte I de como subir una aplicación Symfony - Angular a Hostinger con FileZilla.
+
 ### 32. Subir API REST desarrollada con Symfony (framework para PHP)
-9 min
++ **Contenido**: parte II de como subir una aplicación Symfony - Angular a Hostinger con FileZilla.
+
 ### 33. Configurar htaccess para Symfony
-3 min
++ **Contenido**: parte III de como subir una aplicación Symfony - Angular a Hostinger con FileZilla.
+
 ### 34. Subir webapp SPA con Angular a un hosting
-4 min
++ **Contenido**: parte IV de como subir una aplicación Symfony - Angular a Hostinger con FileZilla.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Publicar aplicación webs: Symfony + Angular"
++ $ git push -u origin main
+
+
+## Sección 13: Servidores VPS (obligatorio verlo)
 ### 35. Antes de continuar con los VPS mira esta clase (importante)
 1 min
 ### 36. ¿Que es un VPS?
