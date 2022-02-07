@@ -208,15 +208,53 @@
 
 ## Sección 13: Servidores VPS (obligatorio verlo)
 ### 35. Antes de continuar con los VPS mira esta clase (importante)
-1 min
++ **VPS recomendado**: https://www.hostinger.es/servidor-vps?utm_medium=affiliate&utm_source=aff46609&utm_campaign=6&session=102f40c59c240f924314d41cfb1dc6
+
 ### 36. ¿Que es un VPS?
-4 min
++ **Contenido**: que es un VPS.
+
 ### 37. Configurar VPS
-3 min
++ **Contenido**: configurar un servidor VPS.
+
 ### 38. Manual completo de Linux y la terminal
-1 min
++ Manual completo de Linux y la terminal
+    1. Introducción a la terminal de Linux
+        + https://victorroblesweb.es/2014/12/06/introduccion-a-la-consola-de-linux
+    2. Gestión de ficheros y directorios
+        + https://victorroblesweb.es/2014/12/13/gestion-de-ficheros-y-directorios-en-linux
+    3. Administración de usuarios y grupos
+        + https://victorroblesweb.es/2014/12/20/gestion-de-usuarios-y-grupos-en-linux
+    4. Permisos
+        + https://victorroblesweb.es/2014/12/27/permisos-en-linux
+    5. Gestión de la red
+        + https://victorroblesweb.es/2015/01/03/gestion-de-la-red-en-linux
+    6. Gestión de paquetes
+        + https://victorroblesweb.es/2015/01/10/gestion-de-paquetes-en-linux
+    7. Procesos
+        + https://victorroblesweb.es/2015/01/17/procesos-en-linux
+    8. Dispositivos de almacenamiento
+        + https://victorroblesweb.es/2015/02/03/dispositivos-de-almacenamiento-en-linux
+    9.  Comandos de filtrado
+        + https://victorroblesweb.es/2015/02/10/comandos-para-filtrar-en-linux
+    10. Patrones y busquedas
+        + https://victorroblesweb.es/2015/02/17/patrones-y-busquedas-en-linux
+    11. Ejemplos de filtrado (Contraseña: git)
+        + https://victorroblesweb.es/2015/02/24/20-ejercicios-de-filtrado-en-linux
+    12. SSH
+        + https://victorroblesweb.es/2013/12/16/servidor-ssh-en-debian-wheezy
++ Tutoriales de Linux y administración de servidores:
+    + https://victorroblesweb.es/category/sistemas/linux
 ### 39. Conexión al SSH
-4 min
++ Servidor SSH: https://victorroblesweb.es/2013/12/16/servidor-ssh-en-debian-wheezy
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Servidores VPS (obligatorio verlo)"
++ $ git push -u origin main
+
+
+## Sección 13:
+
 ### 40. Paquetes y dependencias en linux
 10 min
 ### 41. Gestionar versiones de Node
