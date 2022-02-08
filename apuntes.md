@@ -253,46 +253,72 @@
 + $ git push -u origin main
 
 
-## Sección 13:
-
+## Sección 14: Poner en producción aplicación web: NodeJS, MongoDB, Express y Angular
 ### 40. Paquetes y dependencias en linux
-10 min
++ https://victorroblesweb.es/2015/01/10/gestion-de-paquetes-en-linux
++ **Contenido**: parte I, configuración del servidor VPS.
+
 ### 41. Gestionar versiones de Node
-11 min
++ **Contenido**: parte II, configuración del servidor VPS.
+
 ### 42. Servidor web / proxy
-4 min
++ **Contenido**: parte III, configuración del servidor VPS.
+
 ### 43. Instalar MongoDB en el servidor VPS
-6 min
++ **Contenido**: parte IV, configuración del servidor VPS.
+
 ### 44. La aplicación web MEAN Stack que voy a subir
-3 min
++ **Contenido**: parte V, configuración del servidor VPS.
+
 ### 45. Corrigiendo posibles errores. Parte 1
-4 min
++ **Contenido**: parte VI, configuración del servidor VPS.
+
 ### 46. Corrigiendo posibles fallos. Parte 2
-2 min
++ **Contenido**: parte VII, configuración del servidor VPS.
+
 ### 47. Subida de archivos en API RESTful con Node.js
-12 min
++ **Contenido**: parte VIII, configuración del servidor VPS.
+
 ### 48. Preparar proyecto de Angular para producción
-2 min
++ **Contenido**: parte IX, configuración del servidor VPS.
+
 ### 49. Build para el proyecto de Angular
-7 min
++ **Contenido**: parte X, configuración del servidor VPS.
+
 ### 50. Rutas estáticas para el frontend
-3 min
++ **Contenido**: parte XI, configuración del servidor VPS.
+
 ### 51. Mejorar las urls amigables
-5 min
++ **Contenido**: parte XII, configuración del servidor VPS.
+
 ### 52. Generar build final
-3 min
++ **Contenido**: parte XIII, configuración del servidor VPS.
+
 ### 53. Preparar el back-end de Node para producción
-2 min
++ **Contenido**: parte XIV, configuración del servidor VPS.
+
 ### 54. Repositorios Git y Github
-7 min
++ **Contenido**: parte I, deploy mediante GitHub.
+
 ### 55. Subida de la aplicación del MEAN Stack a producción
-6 min
++ **Contenido**: parte II, deploy mediante GitHub.
+
 ### 56. Corrigiendo error de la subida de ficheros
-3 min
++ **Contenido**: ajustes.
+
 ### 57. Gestor de procesos de Node.js
-5 min
++ **Contenido**: ajustes para mantener Node.js en ejecución.
+
 ### 58. Redirigir el tráfico al puerto 80
-4 min
++ **Contenido**: redireccionar puertos.
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Servidores VPS (obligatorio verlo)"
++ $ git push -u origin main
+
+
+## Sección 15: Poner en producción aplicación web: Python + Django
 ### 59. Regenerar VPS
 2 min
 ### 60. Volver a conectar por SSH
