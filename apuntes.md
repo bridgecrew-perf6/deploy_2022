@@ -314,7 +314,7 @@
 
 ### Subir sección a GitHub
 + $ git add .
-+ $ git commit -m "Servidores VPS (obligatorio verlo)"
++ $ git commit -m "Poner en producción aplicación web: NodeJS, MongoDB, Express y Angular"
 + $ git push -u origin main
 
 
@@ -332,11 +332,25 @@
 ### 64. Cargar estilos
 1 min
 ### 65. Proceso en segundo plano para el proyecto de Django
-10 min
++ https://pm2.io/blog/2018/09/19/Manage-Python-Processes
+
 ### 66. Cargar web en el puerto 80
 2 min
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "Poner en producción aplicación web: Python + Django"
++ $ git push -u origin main
+
+
+## Sección 16: CLASE EXTRA
 ### 67. CLASE DE BONUS
 1 min
+
+### Subir sección a GitHub
++ $ git add .
++ $ git commit -m "CLASE EXTRA"
++ $ git push -u origin main
 
 
 ## EXTRAS:
